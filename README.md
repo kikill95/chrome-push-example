@@ -1,9 +1,11 @@
 ### Snippet from Postman
 
 URL: https://android.googleapis.com/gcm/send
+
 HEADERS:
     Content-Type: application/json
-    Authorization: key=****
+    Authorization: key=<****>
+
 BODY:
     {
         "notification": {
